@@ -9,14 +9,14 @@ This repository contains the codebase for a Medical Appointment Booking website.
 1. Clone this repository to your local machine.
 2. Navigate to the project directory.
 
-```bash
+
 cd medical-appointment-booking
 Install the necessary dependencies.
-bash
+
 Copy code
 npm install
 Start the development server.
-bash
+
 Copy code
 npm start
 Usage
